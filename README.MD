@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swagger" height="40" alt="swagger logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
